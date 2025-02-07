@@ -1,0 +1,19 @@
+Machine learning types:
+a) supervised learning.
+b) unsupervised learning.
+
+Supervised Learning Algorithms
+        * Regresion -> predicts a number of infinetly possible answers. Usually a number.
+        * Classification -> predicts categories from a small number of possible answers.
+
+Unsupervised Learning Algorithms
+        * Clustering -> groups similar data.
+        * Anomaly detection -> finds unusual data points.
+        * Dimensionality reduction -> compress data.
+
+#### SOME JARGON ###
+Training set -> dataset used for training the model.
+x -> feature/input variable.
+y -> target/output, variable.
+m -> total number of training examples.
+(x^i, y^i) -> refers to an specific training example. 'i' is for index.
